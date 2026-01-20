@@ -6,7 +6,7 @@ subtitle: MS in Robotics Systems Development at <a href='https://www.ri.cmu.edu/
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_anirudh.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><a href='mailto:ashriha2@andrew.cmu.edu'>ashriha2@andrew.cmu.edu</a></p>
