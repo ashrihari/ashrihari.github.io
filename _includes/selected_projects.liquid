@@ -1,14 +1,10 @@
 <div class="projects">
-  {% assign selected_projects = site.projects | where: "selected", "true" %}
-  {% if selected_projects.size > 0 %}
-    <div class="container">
-      <div class="row row-cols-1 row-cols-md-3">
-        {% for project in selected_projects %}
-          {% include projects.liquid %}
-        {% endfor %}
-      </div>
+  {% assign selected_projects = site.projects | sort: "importance" %}
+  <div class="container">
+    <div class="row row-cols-1 row-cols-md-3">
+      {% for project in selected_projects %}
+        {% include projects.liquid %}
+      {% endfor %}
     </div>
-  {% else %}
-    <p>No projects selected.</p>
-  {% endif %}
+  </div>
 </div>

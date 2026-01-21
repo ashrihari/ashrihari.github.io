@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: SNAAK - Smart Nutritional Automated Assembly Kiosk
+description: 
 img: assets/img/12.jpg
 importance: 1
 selected: true
+website: https://mrsdprojects.ri.cmu.edu/2025teamc/
 category: work
 related_publications: true
 ---
