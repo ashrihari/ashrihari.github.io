@@ -1,8 +1,8 @@
 ---
 layout: page
 title: SNAAK - Smart Nutritional Automated Assembly Kiosk
-description: 
-img: assets/img/12.jpg
+description: Automated Food Assembly Kiosk
+img: assets/img/snaak.mp4
 importance: 1
 selected: true
 website: https://mrsdprojects.ri.cmu.edu/2025teamc/
