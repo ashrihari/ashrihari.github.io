@@ -441,7 +441,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-snaak-smart-nutritional-automated-assembly-kiosk",
           title: 'SNAAK - Smart Nutritional Automated Assembly Kiosk',
-          description: "",
+          description: "Automated Food Assembly Kiosk",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
