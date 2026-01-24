@@ -407,6 +407,11 @@ ninja.data = [{
           description: "Autonomous Food Assembly Kiosk",
           section: "Projects",handler: () => {
               window.location.href = "/projects/snaak/";
+            },},{id: "projects-accelerating-search-based-planning-for-multi-robot-manipulation-by-leveraging-online-generated-experiences",
+          title: 'Accelerating Search-Based Planning for Multi-Robot Manipulation by Leveraging Online-Generated Experiences',
+          description: "accelerating multi-arm (4-8 arms) planning by using online generated experiences and benchmaking with traditional planners",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/xeplanner/";
             },},{
         id: 'social-cv',
         title: 'CV',
