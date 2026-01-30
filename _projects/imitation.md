@@ -1,11 +1,11 @@
 ---
 layout: page
-title: SNAAK - Smart Nutritional Automated Assembly Kiosk
-description: Autonomous Food Assembly Kiosk
-img: assets/img/snaak.mp4
-importance: 3
+title: Force adaptive and Steerable imitation learning for Unitree G1 
+description: Steerable Imitation learning policy for smooth natural gait for a Unitree G1 while compensating for end effector forces (Tote Carrying)
+img: assets/img/box.mp4
+importance: 2
 selected: true
-website: https://mrsdprojects.ri.cmu.edu/2025teamc/
+website: https://github.com/ashrihari/MimicKit_CMU_MAP
 category: work
 related_publications: true
 ---

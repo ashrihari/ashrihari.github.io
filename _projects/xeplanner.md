@@ -3,7 +3,7 @@ layout: page
 title: Accelerating Search-Based Planning for Multi-Robot Manipulation by Leveraging Online-Generated Experiences
 description: accelerating multi-arm (4-8 arms) planning by using online generated experiences and benchmaking with traditional planners
 img: assets/img/multi_arm.mp4
-importance: 1
+importance: 4
 selected: true
 website: https://github.com/ashrihari/XePlanner
 category: work
