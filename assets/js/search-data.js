@@ -402,6 +402,11 @@ ninja.data = [{
           description: "Locomotion policies for a Wheeled Bipedal Robot",
           section: "Projects",handler: () => {
               window.location.href = "/projects/bipedal/";
+            },},{id: "projects-force-adaptive-and-steerable-imitation-learning-for-unitree-g1",
+          title: 'Force adaptive and Steerable imitation learning for Unitree G1',
+          description: "Steerable Imitation learning policy for smooth natural gait for a Unitree G1 while compensating for end effector forces (Tote Carrying)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/imitation/";
             },},{id: "projects-snaak-smart-nutritional-automated-assembly-kiosk",
           title: 'SNAAK - Smart Nutritional Automated Assembly Kiosk',
           description: "Autonomous Food Assembly Kiosk",
